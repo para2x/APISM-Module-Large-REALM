@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Py Code.iml" filepath="$PROJECT_DIR$/.idea/Py Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Tools/apsimRegions-Revised/.idea/apsimRegions-Revised.iml" filepath="$PROJECT_DIR$/../../Tools/apsimRegions-Revised/.idea/apsimRegions-Revised.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/odds-portal-scraper-master/odds-portal-scraper-master/.idea/odds-portal-scraper-master.iml" filepath="$USER_HOME$/Desktop/odds-portal-scraper-master/odds-portal-scraper-master/.idea/odds-portal-scraper-master.iml" />
+    </modules>
+  </component>
+</project>
